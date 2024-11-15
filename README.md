@@ -29,3 +29,6 @@ The first thing i noticed is that even though AfricaPremimum has seen a positive
 
 ### - Analyze the historical data to identify trends and patterns in revenue.
   Use the historical revenue data to identify trends in growth for each service line. To do this I created a line charts in Excel to visualize trends over time(3years).
+  
+  <img src="https://github.com/user-attachments/assets/275f8d90-0251-4575-ad46-a132784da2ef" width="850" height="500" >
+
