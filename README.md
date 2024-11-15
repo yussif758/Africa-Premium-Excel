@@ -23,5 +23,5 @@ Introduce any missing KPIs which is needed for the forecast model.
 Explain the assumptions and methodologies used in your forecasting model. 
 
 ## Step by step Analysis
-- Analyze the historical data to identify trends and patterns in revenue.
+### - Analyze the historical data to identify trends and patterns in revenue.
   Use the historical revenue data to identify trends in growth for each service line. To do this I created a line charts in Excel to visualize trends over time(3years).
