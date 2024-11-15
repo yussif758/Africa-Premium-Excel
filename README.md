@@ -32,3 +32,8 @@ The first thing i noticed is that even though AfricaPremimum has seen a positive
   
   <img src="https://github.com/user-attachments/assets/275f8d90-0251-4575-ad46-a132784da2ef" width="850" height="500" >
 
+- We can see positve fluctuations in the monthly revenues for all revenue streams. This pattern indicates that revenue is increasing overall but experiencing periodic ups and downs.
+- Despite the inconsistencies in growth, the overall trajectory is upward, indicating growth.
+- The spikes and dips in monthly revenue might be caused by factors such as customer demands, promotions, discounts etc.
+
+
