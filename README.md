@@ -1,4 +1,4 @@
-# African-Premium
+# Africa-Premium
 ## Background
 You have been hired as a forecasting and budgeting analyst for “AfricaPremium,” a telecom company looking to enhance its financial planning and performance. The company has experienced steady growth over the past few years but now faces challenges with market saturation and increasing competition. Management expects you to refine the company's forecasting and budgeting processes to support strategic decision-making.
 
@@ -23,5 +23,9 @@ Introduce any missing KPIs which is needed for the forecast model.
 Explain the assumptions and methodologies used in your forecasting model. 
 
 ## Step by step Analysis
+### Note :
+
+The first thing i noticed is that even though AfricaPremimum has seen a positive average annual revenue growth of 26% over the years, indicating that AfricaPremimum is expanding and generating higher revenues over time. The industry is growing faster(35%), with a 9% growth gap (35% - 26%), which may indicate that AfricaPremium is losing relative competitiveness within the market. In order to further understrand why this is happening I have to analyze the historical revenue data. 
+
 ### - Analyze the historical data to identify trends and patterns in revenue.
   Use the historical revenue data to identify trends in growth for each service line. To do this I created a line charts in Excel to visualize trends over time(3years).
