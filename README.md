@@ -36,4 +36,9 @@ The first thing i noticed is that even though AfricaPremimum has seen a positive
 - Despite the inconsistencies in growth, the overall trajectory is upward, indicating growth.
 - The spikes and dips in monthly revenue might be caused by factors such as customer demands, promotions, discounts etc.
 
+<img src="https://github.com/user-attachments/assets/ee5256fc-2b09-4fbc-816d-d99348c42139" width="600" height="400" > 
+ <img src="https://github.com/user-attachments/assets/a1701bdb-d4f7-4d94-b2d8-0b024104a478" width="600" height="400" > 
+ 
+
+ 
 
