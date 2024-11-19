@@ -110,7 +110,7 @@ Scenario 2 : Next Year Revenue = Previous Year Revenue × (1 + 0.35)
 
 
 - The base revenue is the total revenue generated in 2025 using the average monthly growth rate provided.
-- Scenario 1, I used a lower growth rate to model the effect of competition or economic downturns. For instance, if the growth rate reduced to 20%, we are going to see a decrease in the overall revenue in 2025	as compared to the forecast revenue.					
+- In scenario 1, I used a lower growth rate to model the effect of competition or economic downturns. For instance, if the growth rate reduced to 20%, we are going to see a decrease in the overall revenue in 2025	as compared to the forecast revenue.					
 - In scenario 2, I used a higher growth rate (e.g., industry benchmark 35%) thus, if the market is favorable or growth initiatives succeed. we are going to see a massive improvement in the total revenue for 2025.						
 
 ### 6. Customer Base 
