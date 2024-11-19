@@ -119,7 +119,7 @@ I calculate to the engagement rate using the active base. The active base repres
 
 Formula:
 
-Engagement Rate = Active Base / Closing Base × 100
+Engagement Rate = Total Active Base / Total Closing Base × 100
                 
                 = 10781607/18913578 x 100
                 
