@@ -89,7 +89,19 @@ I calculated the yearly total revenue for each revenue stream to verify if inter
 
 <img src="https://github.com/user-attachments/assets/8749c84d-682b-4b4f-a8fc-c6f3992dd333" width="400" height="150" > <img src="https://github.com/user-attachments/assets/130aa8b7-d165-4b98-9cde-f22810c5613a" width="600" height="400" >
 - The years(2022-2025) are represented by 1,2,3,4 respectively.					
-- We can see that the revenue generated from all the streams increases continuously throughout the years even after the forecast. But it is different for Value added services because we saw a slight decrease between 2023 and 2024.					
+- We can see that the revenue generated from all the streams increases continuously throughout the years even after the forecast. 
+- From the chart, we can clearly notice that, IoTs is the highest revenue generator throughout the years while fixed values is the least revenue genrator.
+
+<img width="664" alt="Yearly Growth Rate Table" src="https://github.com/user-attachments/assets/0fd0e723-35db-4e23-ab93-d95056bd1624">
+
+### 5. Projections/ Assumptions
+
+<img width="647" alt="2025 Projections" src="https://github.com/user-attachments/assets/cc02a3ae-1483-49b3-820d-0267e2d90306">
+
+### 6. Customer Base 
+
+<img width="813" alt="Customer Base" src="https://github.com/user-attachments/assets/30922c13-a7c5-4c9c-b54a-d9ba01115cda">
 
 
+### Other KPs 
 
