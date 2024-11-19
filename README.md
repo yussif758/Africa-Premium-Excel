@@ -123,14 +123,19 @@ Scenario 2 : Next Year Revenue = Previous Year Revenue × (1 + 0.35)
 ### Other KPIs 
 ### - Engagement Rate
 
-I calculate to the engagement rate using the active base. The active base represents the number of customers who engaged with the service within the period. Comparing this with the closing base provides the engagement rate.
+I calculated the engagement rate using the active base and closing base. The active base represents the number of customers who engaged with the service within the period. Comparing this with the closing base provides the engagement rate.
 
 Formula:
 
 Engagement Rate = Total Active Base / Total Closing Base × 100
-                
-                = 10781607/18913578 x 100
-                
-                = 57.00%
 
-This means that 57% of customers are actively engaging with the services.
+<img width="351" alt="Screenshot 2024-11-19 at 11 29 24 PM" src="https://github.com/user-attachments/assets/c9b1a52a-f7f9-457f-afaf-c4873f197fc0">
+
+- This means that 57% of the total customers are actively engaging with the service.
+
+
+### Conclusions and Recommendations
+- the IoT stream shows high growth potential (e.g., a higher monthly growth rate, stable ARPU, and Engagement rate), it could indicate strong market demand. Hence, investing further here may yield high returns.													
+- Fixed Services shows slower growth or declining engagement, it may be less viable long-term unless the company can increase retention for this aspect.													
+- Enhance Customer Retention Programs.  Introduce loyalty programs targeting high-churn revenue streams.													
+- Focus on IoT and Value-Added Services for their growth potential and higher ARPU, while implementing strategies to boost retention and engagement.													
