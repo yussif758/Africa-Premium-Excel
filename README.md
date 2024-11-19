@@ -2,8 +2,12 @@
 
 ## Table of content
 - [Background](#Background)
-- [Current Situation](#Current Situation)
-- 
+- [Current Situation](#CurrentSituation)
+- [Task](#Task)
+- [Step by step Analysis](#StepbystepAnalysis)
+- [Calculations and Insights](#CalculationsandInsights)
+- [Other KPIs](#OtherKPIs)
+- [Conclusions and Recommendations](#ConclusionsandRecommendations)
 
 ## Background
 You have been hired as a forecasting and budgeting analyst for “AfricaPremium,” a telecom company looking to enhance its financial planning and performance. The company has experienced steady growth over the past few years but now faces challenges with market saturation and increasing competition. Management expects you to refine the company's forecasting and budgeting processes to support strategic decision-making.
