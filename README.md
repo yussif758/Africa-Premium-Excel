@@ -120,4 +120,9 @@ I calculate to the engagement rate using the active base. The active base repres
 Formula:
 
 Engagement Rate = Active Base / Closing Base × 100
- 
+                
+                = 10781607/18913578 x 100
+                
+                = 57.00%
+
+This means that 57% of customers are actively engaging with the services.
