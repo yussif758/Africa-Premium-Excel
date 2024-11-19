@@ -37,7 +37,7 @@ The first thing i noticed is that even though AfricaPremimum has seen a positive
 - The spikes and dips in monthly revenue might be caused by factors such as customer demands, promotions, discounts etc.
 
 
-### Calculations 
+### Calculations and Insights
 ### 1. Growth Rates 
 By calculating the monthly growth, i was able to see why the monthly revenue trend was fluctuating for eaxh stream. Fluctuating growth rates highlight the dynamic nature of business performance. By analyzing the underlying drivers and managing risks, the company can turn these fluctuations into opportunities for sustainable growth.
 
