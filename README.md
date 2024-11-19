@@ -95,13 +95,29 @@ I calculated the yearly total revenue for each revenue stream to verify if inter
 <img width="664" alt="Yearly Growth Rate Table" src="https://github.com/user-attachments/assets/0fd0e723-35db-4e23-ab93-d95056bd1624">
 
 ### 5. Projections/ Assumptions
+With this scenarioes we can effectively model how different assumptions will impact future revenue, providing a range of potential outcomes for strategic planning and decision-making.
+
+<img width="519" alt="Screenshot 2024-11-19 at 4 00 18 PM" src="https://github.com/user-attachments/assets/8a98369c-dd77-4bf4-b683-6181dc5ddf19">
 
 <img width="647" alt="2025 Projections" src="https://github.com/user-attachments/assets/cc02a3ae-1483-49b3-820d-0267e2d90306">
+
+1. The base revenue is the total revenue generated from the forecast.						
+2. Scenario 1, I assumed if we are able to increase our growth rate between 2024 and 2025 to be higher than the forecasted rate. for instance, if the growth rate is 30%, we are going to see and increase in the overall revenue in 2025						
+3. In scenario 2, what if we are able to increase the growth rate match with the industry's growth(36%). we are to see a massive improvement in the total revenue for 2025.						
 
 ### 6. Customer Base 
 
 <img width="813" alt="Customer Base" src="https://github.com/user-attachments/assets/30922c13-a7c5-4c9c-b54a-d9ba01115cda">
 
+- A large gap between active and closing bases may indicate inactive or disengaged customers, suggesting a need for re-engagement strategies.
+- Hence, there is a need to enhance service quality, usability, and customer support to ensure active engagement.		
 
-### Other KPs 
+### Other KPIs 
+### - Engagement Rate
 
+I calculate to the engagement rate using the active base. The active base represents the number of customers who engaged with the service within the period. Comparing this with the closing base provides the engagement rate.
+
+Formula:
+
+Engagement Rate = Active Base / Closing Base × 100
+ 
