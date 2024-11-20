@@ -7,6 +7,7 @@
 - [Step by step Analysis](#Step-by-step-Analysis)
 - [Calculations and Insights](#Calculations-and-Insights)
 - [Other KPIs](#Other-KPIs)
+- [Dashboard](#Dashboard)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 
 ## Background
@@ -143,6 +144,7 @@ Engagement Rate = Total Active Base / Total Closing Base × 100
 
 - This means that 57% of the total customers are actively engaging with the service.
 
+### Dashboard
 
 ### Conclusions and Recommendations
 - the IoT stream shows high growth potential (e.g., a higher monthly growth rate, stable ARPU, and Engagement rate), it could indicate strong market demand. Hence, investing further here may yield high returns.													
