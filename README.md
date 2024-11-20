@@ -148,7 +148,8 @@ Engagement Rate = Total Active Base / Total Closing Base × 100
 - This also explains why interneet of things generates the highest revenue while fixed values generates the least revenue throughout the years.
 
 ### Dashboard
-This is a summary dashboard I created using exce,l highlighting some of the key insights of "AfricaPremium" revenue data.
+This is a summary dashboard I created using excel, highlighting some of the key insights of "AfricaPremium" revenue data.
+
 <img width="1394" alt="Dashboard" src="https://github.com/user-attachments/assets/7950493c-43a7-4167-87e3-12d9887bb999">
 
 ### Conclusions and Recommendations
