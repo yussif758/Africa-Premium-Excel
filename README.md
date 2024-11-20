@@ -97,7 +97,7 @@ Since I was already given the average monthly growth rate for each revenue strea
 ### 4. Yearly Total Revenue
 I calculated the yearly total revenue for each revenue stream to verify if internet of things(IoT) generated the most revenue throughout the years or there were other streams that generated more revenue in some particular years than IoTs. 
 
-<img src="https://github.com/user-attachments/assets/8749c84d-682b-4b4f-a8fc-c6f3992dd333" width="400" height="150" > <img src="https://github.com/user-attachments/assets/130aa8b7-d165-4b98-9cde-f22810c5613a" width="600" height="400" >
+<img src="https://github.com/user-attachments/assets/8749c84d-682b-4b4f-a8fc-c6f3992dd333" width="500" height="200" > <img src="https://github.com/user-attachments/assets/130aa8b7-d165-4b98-9cde-f22810c5613a" width="700" height="500" >
 - The years(2022-2025) are represented by 1,2,3,4 respectively.					
 - We can see that the revenue generated from all the streams increases continuously throughout the years even after the forecast. 
 - From the chart, we can clearly notice that, IoTs is the highest revenue generator throughout the years while fixed values is the least revenue genrator.
