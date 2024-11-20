@@ -61,7 +61,7 @@ Growth Rate = (Current Revenue / Previous Revenue) - 1
 
 Format the cell to percentage.
 
- <img src="https://github.com/user-attachments/assets/bcbecef8-77a3-49f4-ac94-1a5d160e9197" width="500" height="400" > <img src="https://github.com/user-attachments/assets/a1701bdb-d4f7-4d94-b2d8-0b024104a478" width="500" height="400" > 
+ <img src="https://github.com/user-attachments/assets/bcbecef8-77a3-49f4-ac94-1a5d160e9197" width="600" height="450" > <img src="https://github.com/user-attachments/assets/a1701bdb-d4f7-4d94-b2d8-0b024104a478" width="700" height="500" > 
  						
 - We can see that in some months, the growth rates reduced to negative causeing the revenues in those months to reduce drastically.
 - The increase and decrease in growth rates might a results if customer behaviors or other factors. This is the reason the revenue has been fluctuating throughout the years.
